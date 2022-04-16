@@ -5,11 +5,10 @@ Personal Card built with Flutter.
 E-Shop Login Page built with Flutter.
 ## Features
 
-- Click on Button to roll both the dice.
-- CLick on each dice to roll separately.
-- Set State is used.
-- Dart Math Library used.
-- Dark Mode.
+- Static Pages
+- Textfiel Properties used
+- Circle Avatar
+- Gradient Colors
 
 ## Demonstration
 
