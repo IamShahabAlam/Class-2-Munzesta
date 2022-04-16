@@ -2,7 +2,7 @@
 
 A Simple Logo Page built with Flutter.
 Personal Card built with Flutter.
-built with Flutter.
+E-Shop Login Page built with Flutter.
 ## Features
 
 - Click on Button to roll both the dice.
