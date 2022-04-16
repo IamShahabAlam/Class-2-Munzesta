@@ -1,7 +1,7 @@
 # Three Pages
 
 A Simple Logo Page built with Flutter.
-built with Flutter.
+Personal Card built with Flutter.
 built with Flutter.
 ## Features
 
