@@ -1,7 +1,8 @@
 # Three Pages
 
-Login Signup Page built with Flutter.
-
+A Simple Logo Page built with Flutter.
+built with Flutter.
+built with Flutter.
 ## Features
 
 - Click on Button to roll both the dice.
@@ -12,7 +13,13 @@ Login Signup Page built with Flutter.
 
 ## Demonstration
 
-COMING SOON :screwdriver: :placard:	 
+<!-- COMING SOON :screwdriver: :placard:	  -->
+### Task 1
+![1](https://user-images.githubusercontent.com/82330891/163686782-fa122fac-99f8-487b-b18a-82aa35b00153.JPG)
+### Task 2
+![2](https://user-images.githubusercontent.com/82330891/163686784-b030b00e-e311-441f-9d74-65672c3ef0f0.JPG)
+### Task 3
+![3](https://user-images.githubusercontent.com/82330891/163686787-5ca16297-3f74-40ac-805b-52ea7938128c.JPG)
 
 
 
