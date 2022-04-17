@@ -21,11 +21,7 @@ E-Shop Login Page built with Flutter.
 ![3](https://user-images.githubusercontent.com/82330891/163686787-5ca16297-3f74-40ac-805b-52ea7938128c.JPG)
 
 
-
-
 <!-- ## Result Screen -->
-
-
 
 ## Credits
 
@@ -55,5 +51,6 @@ E-Shop Login Page built with Flutter.
 
 </a>
             </div> <br/>
+            
 
 > :blue_heart: &nbsp; Fluttering
